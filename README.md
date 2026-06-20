@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=d81b60&height=250&section=header&text=KISHAN%20KUMAR&fontSize=50&fontColor=ffffff&desc=Aspiring%20Data%20Analytics%20%7C%20Data%20Scientist%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=16&descAlignY=65" alt="Kishan Kumar Banner" />
-</p>
+# <p align="center"><font color="#D81B60">💗 KISHAN KUMAR 💗</font></p>
+<p align="center"><strong>🚀 Aspiring Data Analytics | Data Scientist | Python | SQL | Power BI 🚀</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kishan-kumar-singh-0806a132a8"><img src="https://img.shields.io/badge/LINKEDIN-D81B60?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
