@@ -1,10 +1,9 @@
-# <p align="center">KISHAN KUMAR</p>
-<p align="center">Aspiring Data Analytics | Data Scientist | Python | SQL | Power BI</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kishan-kumar-singh-0806a132a8"><img src="https://img.shields.io/badge/LINKEDIN-D81B60?style=for-the-badge" /></a>
-  <a href="https://github.com/kishankumar-lab"><img src="https://img.shields.io/badge/GITHUB-D81B60?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+| <br> <h1 align="center"><strong>KISHAN KUMAR</strong></h1> <p align="center">Aspiring Data Analytics \| Data Scientist \| Python \| SQL \| Power BI</p> <p align="center"><a href="https://www.linkedin.com/in/kishan-kumar-singh-0806a132a8"><img src="https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=D81B60" /></a>&nbsp;&nbsp;<a href="https://github.com/kishankumar-lab"><img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=D81B60" /></a></p> <br> |
+| :---: |
+
+</div>
 
 ---
 
